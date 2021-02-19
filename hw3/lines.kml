@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><name>Gaughan and Tiberti Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.282491,34.018666</coordinates></Point>
+</Placemark>
+<Placemark><name>Asa V Call Law Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.284282,34.018674</coordinates></Point>
+</Placemark>
+<Placemark><name>Helen Topping Architecture Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.288028,34.019187</coordinates></Point>
+</Placemark>
+<Placemark><name>Science and Engineering Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.288807,34.019613</coordinates></Point>
+</Placemark>
+<Placemark><name>Wilson Dental Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.286226,34.023967</coordinates></Point>
+</Placemark>
+<Placemark><name>Leavey Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.282865,34.021783</coordinates></Point>
+</Placemark>
+<Placemark><name>VKC Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.283997,34.021244</coordinates></Point>
+</Placemark>
+<Placemark><name>Laufer Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.287536,34.019993</coordinates></Point>
+</Placemark>
+<Placemark><name>University of Southern California Accounting Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.285553,34.019184</coordinates></Point>
+</Placemark>
+<Placemark><name>Edward L. Doheny Jr. Memorial Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.283756,34.020047</coordinates></Point>
+</Placemark>
+<Placemark><name>Gerontology Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.283734,34.020199</coordinates></Point>
+</Placemark>
+<Placemark><name>Feuchtwanger Memorial Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.283534,34.020144</coordinates></Point>
+</Placemark>
+<Placemark><name>Tommy Trojan</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.285468,34.020563</coordinates></Point>
+</Placemark>
+<Placemark> 
+ <LineString>
+  <coordinates>
+   -118.285468,34.020563,0. 
+   -118.283997,34.021244,0.
+  </coordinates>
+ </LineString>
+</Placemark>
+<Placemark> 
+ <LineString>
+  <coordinates>
+   -118.285468,34.020563,0. 
+   -118.285553,34.019184,0.
+  </coordinates>
+ </LineString>
+</Placemark>
+<Placemark> 
+ <LineString>
+  <coordinates>
+   -118.285468,34.020563,0. 
+   -118.283756,34.020047,0.
+  </coordinates>
+ </LineString>
+</Placemark>
+<Placemark> 
+ <LineString>
+  <coordinates>
+   -118.285468,34.020563,0. 
+   -118.283734,34.020199,0.
+  </coordinates>
+ </LineString>
+</Placemark>
+</Document></kml>
