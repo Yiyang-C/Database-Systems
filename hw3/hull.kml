@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>The Pentagon</name>
+    <Polygon>
+      <extrude>1</extrude>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -118.282491,34.018666,100 <!-- Gaughan and Tiberti Library -->
+            -118.284282,34.018674,100 <!-- Asa V Call Law Library -->
+            -118.288028,34.019187,100 <!-- Helen Topping Architecture Library -->
+            -118.288807,34.019613,100 <!-- Science and Engineering Library -->
+            -118.286226,34.023967,100 <!-- Wilson Dental Library -->
+            -118.282865,34.021783,100 <!-- Leavey Library -->
+            -118.282491,34.018666,100 <!-- Gaughan and Tiberti Library -->
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+      <innerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+          </coordinates>
+        </LinearRing>
+      </innerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</kml>
